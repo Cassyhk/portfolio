@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm a...<br>Microsoft Certified Power BI Data Analyst Associate<br>Cantonese Speaking Analyst/ aka Canto-analyst<br>Disney College Program Alumni <br><br>🔭 I’m currently working on Microsoft Fabric<br>🤝 I’m looking for new projects and opportunities<br>🌱 I’m currently learning on Microsoft Fabric Career Hub<br>💬 Open to Any Skills & Analytical Discussion<br>⚡ Fun fact - I have been successfully pivoted from a Dental Hygienist/ aka Dental Hy-genius to a Canto-analyst
+I'm a...<br>Microsoft Certified Power BI Data Analyst Associate<br>Cantonese Speaking Analyst/ aka Canto-analyst<br>Disney College Program Alumni <br><br>🔭 I’m currently working on Microsoft Fabric<br>🤝 I’m looking for new projects and opportunities<br>🌱 I’m currently learning on Microsoft Fabric Career Hub<br>💬 Open to Any Skills & Analytical Discussion<br>⚡ Fun fact - I have been successfully pivoted from a Dental Hygienist/ aka Dental Hy-genius to a Cantonese Speaking Analyst/ aka Canto-analyst
 
 
 ## 🌐 Socials:
