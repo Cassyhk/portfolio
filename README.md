@@ -24,7 +24,7 @@ I'm a...<br>Microsoft Certified Power BI Data Analyst Associate<br>Cantonese Spe
 <img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/Sales%20Person%20Performance%20Dashboard.png" alt="Sales Person Performance Dashboard" width="500">
 <br>
 
-<Strong>[DATA CLEANSING WITH SQL]</Strong>
+<Strong>[DATA EXPLORATION WITH SQL]</Strong>
 <br>
 <br>
 <img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/SQL_ETC.png" alt="SQL ETC Image" width="500">
