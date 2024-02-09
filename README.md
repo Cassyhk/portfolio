@@ -1,8 +1,9 @@
-![Image Title](https://media.licdn.com/dms/image/D4E35AQHknaGZbiQWLA/profile-framedphoto-shrink_800_800/0/1703055815516?e=1708034400&v=beta&t=ImYP2SluKA3oXxf40fLjUomfmwV-Ps1ah6oKmrSz1Ic)
-
-
-# 💫 About Me:
-I'm a...<br>Microsoft Certified Power BI Data Analyst Associate<br>Cantonese Speaking Analyst/ aka Canto-analyst<br>Disney College Program Alumni <br><br>🔭 I’m currently working on Microsoft Fabric<br>🤝 I’m looking for new projects and opportunities<br>🌱 I’m currently learning on Microsoft Fabric Career Hub<br>💬 Open to Any Skills & Analytical Discussion<br>⚡ Fun fact - I have been successfully pivoted from a Dental Hygienist/ aka Dental Hy-genius to a Cantonese Speaking Analyst/ aka Canto-analyst
+# 📊📈About Me: 👩🏻‍🎓
+<div align="right">
+  <img src="https://media.licdn.com/dms/image/D4E35AQHknaGZbiQWLA/profile-framedphoto-shrink_800_800/0/1703055815516?e=1708034400&v=beta&t=ImYP2SluKA3oXxf40fLjUomfmwV-Ps1ah6oKmrSz1Ic" alt="Image Title" width="200">
+</div>
+I'm a...<br>Microsoft Certified Power BI Data Analyst Associate<br>Cantonese Speaking Analyst/ aka Canto-analyst<br>Disney College Program Alumni <br><br>🔭 I’m currently working on enhancing my analytical and technical skills with Microsoft Fabric<br>🤝 I’m looking for new projects and opportunities<br>🌱 I’m currently learning on Microsoft Fabric Career Hub<br>💬 Open to Any Skills & Analytical Discussions<br>🥳 Fun fact - I have been successfully pivoted from <br>
+<strong>a Dental Hygienist/ aka Dental Hy-genius🦷 to a Cantonese Speaking Analyst/ aka Canto-analyst👩‍💻</strong>
 
 
 ## 🌐 Socials:
@@ -11,23 +12,49 @@ I'm a...<br>Microsoft Certified Power BI Data Analyst Associate<br>Cantonese Spe
 # 💻 Tech Stack:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 GitHub 
-(PORTFOLIO HIGHLIGHTS): 
+# 📊 (PORTFOLIO HIGHLIGHTS): 
 
-![DATA EXPLORATION WITH POWER BI REPORTS](https://cassyhk.github.io/CassyPorfolio2.github.io/images/WWI%20Sales%20Dashboard%201.png)
-![image](https://github.com/Cassyhk/portfolio/assets/145394021/47133899-6a4e-4715-b640-8fe20e268b53)
-![DATA CLEANING WITH SQL](https://cassyhk.github.io/CassyPorfolio2.github.io/images/SQL_ETC.png)
-![image](https://cassyhk.github.io/CassyPorfolio2.github.io/images/SQL_Having.png)
-![ADVANCED FORMULA IN MICROSOFT EXCEL](https://cassyhk.github.io/CassyPorfolio2.github.io/images/Excel%201.png)
-![image](https://cassyhk.github.io/CassyPorfolio2.github.io/images/Excel%202.png)
+<Strong>[DATA EXPLORATION WITH POWER BI REPORTS]</Strong>
+<br>
+<br>
+<img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/WWI%20Sales%20Dashboard%201.png" alt="DATA EXPLORATION WITH POWER BI REPORTS" width="500">
+<img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/WWI%20Sales%20Dashboard%202.png" alt="image" width="500">
+<br>
+<img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/Flight%20Performance%20Dashboard.png" alt="Flight Performance Dashboard" width="500">
+<img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/Sales%20Person%20Performance%20Dashboard.png" alt="Sales Person Performance Dashboard" width="500">
+<br>
 
-### ✍️ Favorite YouTube channel:
+<Strong>[DATA CLEANSING WITH SQL]</Strong>
+<br>
+<br>
+<img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/SQL_ETC.png" alt="SQL ETC Image" width="500">
+<img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/SQL_Having.png" alt="SQL Having Image" width="500">
+<br>
+<br>
 
- Guy in a Cube
+<Strong>[ADVANCED FORMULA IN MICROSOFT EXCEL]</Strong>
+<br>
+<br>
+<img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/Excel%201.png" alt="Excel 1 Image" width="500">
+<img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/Excel%202.png" alt="Excel 2 Image" width="500">
+<img src="https://cassyhk.github.io/CassyPorfolio2.github.io/images/Excel%203.png" alt="Excel 3 Image" width="600">
 
- <a href="https://www.youtube.com/watch?v=1XvIna-ljIQ&list=PLv2BtOtLblH096pfKHLg8Es7COsCif4Lc&index=1">
-  <img src="https://i.ytimg.com/vi/1XvIna-ljIQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB_RjyteIw8XxPoe4QZ31E-FO0aGQ" alt="image">
-</a>
+<br>
+<br>
+
+# ✍️ Favorite YouTube channel:
+ 
+ 
+<Strong>Guy in a Cube</Strong>
+
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1XvIna-ljIQ&list=PLv2BtOtLblH096pfKHLg8Es7COsCif4Lc&index=1">
+    <img src="https://i.ytimg.com/vi/1XvIna-ljIQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB_RjyteIw8XxPoe4QZ31E-FO0aGQ" alt="image" width="400">
+  </a>
+</div>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
