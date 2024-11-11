@@ -16,6 +16,33 @@
 
 # 📊 (PORTFOLIO HIGHLIGHTS): 
 
+<div align="Left">
+<br>
+<Strong>[DATA EXPLORATION WITH TABLEAU REPORT]</Strong>
+<br>
+<br>
+<div class='tableauPlaceholder' id='viz1731345847814' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img alt='Sales Dashboard' src='https://public.tableau.com/static/images/Sa/Salesdashboard_17313448480100/SalesDashboard/1_rss.png' style='border: none' />
+        </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='Salesdashboard_17313448480100/SalesDashboard' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image' value='https://public.tableau.com/static/images/Sa/Salesdashboard_17313448480100/SalesDashboard/1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count'
+</div>
+<br>
+<br>
 <Strong>[DATA EXPLORATION WITH POWER BI REPORTS]</Strong>
 <br>
 <br>
@@ -55,6 +82,8 @@
     <img src="https://i.ytimg.com/vi/1XvIna-ljIQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB_RjyteIw8XxPoe4QZ31E-FO0aGQ" alt="image" width="400">
   </a>
 </div>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
