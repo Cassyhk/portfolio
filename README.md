@@ -17,13 +17,10 @@
 # 📊 (PORTFOLIO HIGHLIGHTS): 
 
 <div align="Left">
-<br>
 <Strong>[DATA EXPLORATION WITH TABLEAU REPORT]</Strong>
 <br>
 <br>
-<div class='tableauPlaceholder' id='viz1731345847814' style='position: relative'>
-    <noscript>
-        <a href='#'>
+ <a href='https://public.tableau.com/views/Salesdashboard_17313448480100/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'>
             <img alt='Sales Dashboard' src='https://public.tableau.com/static/images/Sa/Salesdashboard_17313448480100/SalesDashboard/1_rss.png' style='border: none' />
         </a>
     </noscript>
