@@ -7,6 +7,16 @@
 <strong>💻 Microsoft Certified Power BI Data Analyst Associate<br>📈 Cantonese Speaking Analyst/ aka Canto-analyst<br>🏰 Disney College Program Alumni </strong><br><br>🔭 I’m currently working on enhancing my analytical and technical skills with Microsoft Fabric<br>🤝 I’m looking for new projects and opportunities<br>🌱 I’m currently learning on Microsoft Fabric Career Hub<br>💬 Open to Any Skills & Analytical Discussions<br>🥳 Fun fact - I have been successfully pivoted from <br>
 <strong>a Dental Hygienist/ aka Dental Hy-genius🦷 to a Cantonese Speaking Analyst/ aka Canto-analyst👩‍💻</strong>
 
+## PROFESSIONAL SUMMARY   
+Enthusiastic data analyst with a strong skill set, holding a Microsoft certification in Power BI data analysis, solid 
+proficiency in Python, SQL and Excel, and extensive experience in business intelligence. My recent honors 
+graduation has further enhanced my analytical abilities. I have a genuine passion for extracting valuable insights 
+from complex data, as evidenced by my practical data visualization experience at the University of Florida. In my 
+current role as a Business Intelligence Analyst, I focus on analyzing provider performance and creating dashboards 
+to improve client satisfaction and training plans. With a Bachelor of Applied Science with honors and Power BI 
+certification, I am eager to contribute my skills and knowledge to an analyst role, particularly in improving 
+operations and quality through data-driven insights. 
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cassyhk.io/?igsh=d3Z4cGJ2cHE4dGJ2&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassy-sin-ting-t-54933843/) 
